@@ -135,7 +135,7 @@ CREATE TABLE board_file_table
 저장소 클론
 
 ```
-git clone https://github.com/your-repository-url.git
+https://github.com/lhjwork/spring_board/tree/main
 ```
 
 MySQL DB 생성
